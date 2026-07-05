@@ -27,7 +27,7 @@ Your Markdown file is ready
 
 I have put together a professional, highly polished `README.md` file for you to drop right into your GitHub repository! 
 
-It includes all the advanced CSS and JavaScript concepts we worked on (like the `paint-order` typography trick, the Flexbox layouts, and the custom JS scrolling) to show anyone who looks at your repo that you deeply understand the code you wrote. I also made sure to include your GitHub link and the Zaio Institute of Technology context.
+It includes all the advanced CSS and HTML concepts we worked on (like the `paint-order` typography trick, the Flexbox layouts, and the custom scrolling) to show anyone who looks at your repo that you deeply understand the code you wrote. I also made sure to include your GitHub link and the Zaio Institute of Technology context.
 
 **How to add this to your project:**
 1. Download the `README.md` file above.
