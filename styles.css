@@ -217,6 +217,7 @@ form button {
 
 .card-video-section {
     width: 50%;
+    align-content: center;
 }
 
 .homepage-video {
@@ -228,12 +229,34 @@ form button {
     align-content: center;
 }
 
-.hot-trailer {
+.trailer-section {
     display: block;
-    padding: 5px 5%;
+    padding: 50px 5%;
     box-sizing: border-box;
     font-size: 1.5rem;
     width: 100%;
+}
+
+.video-container {
+    width: 100%;
+    position: relative;
+    padding-bottom: 26.25%;
+    margin: 0 auto;
+    max-width: 1000px;
+    background-color: #2d2d2d;
+    border-radius: 12px;
+    overflow: hidden;
+    align-content: center;
+}
+
+.video-container iframe {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    align-content: center;
+    border: none;
 }
 
 .more-reasons-section {
